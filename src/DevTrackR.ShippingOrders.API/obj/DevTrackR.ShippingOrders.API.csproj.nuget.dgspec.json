@@ -1,0 +1,250 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.API/DevTrackR.ShippingOrders.API.csproj": {}
+  },
+  "projects": {
+    "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.API/DevTrackR.ShippingOrders.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.API/DevTrackR.ShippingOrders.API.csproj",
+        "projectName": "DevTrackR.ShippingOrders.API",
+        "projectPath": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.API/DevTrackR.ShippingOrders.API.csproj",
+        "packagesPath": "/Users/marcoantoniolima/.nuget/packages/",
+        "outputPath": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcoantoniolima/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Application/DevTrackR.ShippingOrders.Application.csproj": {
+                "projectPath": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Application/DevTrackR.ShippingOrders.Application.csproj"
+              },
+              "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/DevTrackR.ShippingOrders.Core.csproj": {
+                "projectPath": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/DevTrackR.ShippingOrders.Core.csproj"
+              },
+              "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/DevTrackR.ShippingOrders.Infrasctructure.csproj": {
+                "projectPath": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/DevTrackR.ShippingOrders.Infrasctructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Application/DevTrackR.ShippingOrders.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Application/DevTrackR.ShippingOrders.Application.csproj",
+        "projectName": "DevTrackR.ShippingOrders.Application",
+        "projectPath": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Application/DevTrackR.ShippingOrders.Application.csproj",
+        "packagesPath": "/Users/marcoantoniolima/.nuget/packages/",
+        "outputPath": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcoantoniolima/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/DevTrackR.ShippingOrders.Core.csproj": {
+                "projectPath": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/DevTrackR.ShippingOrders.Core.csproj"
+              },
+              "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/DevTrackR.ShippingOrders.Infrasctructure.csproj": {
+                "projectPath": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/DevTrackR.ShippingOrders.Infrasctructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/DevTrackR.ShippingOrders.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/DevTrackR.ShippingOrders.Core.csproj",
+        "projectName": "DevTrackR.ShippingOrders.Core",
+        "projectPath": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/DevTrackR.ShippingOrders.Core.csproj",
+        "packagesPath": "/Users/marcoantoniolima/.nuget/packages/",
+        "outputPath": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcoantoniolima/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/DevTrackR.ShippingOrders.Infrasctructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/DevTrackR.ShippingOrders.Infrasctructure.csproj",
+        "projectName": "DevTrackR.ShippingOrders.Infrasctructure",
+        "projectPath": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/DevTrackR.ShippingOrders.Infrasctructure.csproj",
+        "packagesPath": "/Users/marcoantoniolima/.nuget/packages/",
+        "outputPath": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcoantoniolima/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/DevTrackR.ShippingOrders.Core.csproj": {
+                "projectPath": "/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/DevTrackR.ShippingOrders.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

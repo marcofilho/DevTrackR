@@ -1,0 +1,15 @@
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/bin/Debug/net6.0/DevTrackR.ShippingOrders.Infrasctructure.deps.json
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/bin/Debug/net6.0/DevTrackR.ShippingOrders.Infrasctructure.dll
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/bin/Debug/net6.0/DevTrackR.ShippingOrders.Infrasctructure.pdb
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/bin/Debug/net6.0/DevTrackR.ShippingOrders.Core.dll
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/bin/Debug/net6.0/DevTrackR.ShippingOrders.Core.pdb
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/obj/Debug/net6.0/DevTrackR.ShippingOrders.Infrasctructure.csproj.AssemblyReference.cache
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/obj/Debug/net6.0/DevTrackR.ShippingOrders.Infrasctructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/obj/Debug/net6.0/DevTrackR.ShippingOrders.Infrasctructure.AssemblyInfoInputs.cache
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/obj/Debug/net6.0/DevTrackR.ShippingOrders.Infrasctructure.AssemblyInfo.cs
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/obj/Debug/net6.0/DevTrackR.ShippingOrders.Infrasctructure.csproj.CoreCompileInputs.cache
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/obj/Debug/net6.0/DevTrackR.ShippingOrders.Infrasctructure.csproj.CopyComplete
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/obj/Debug/net6.0/DevTrackR.ShippingOrders.Infrasctructure.dll
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/obj/Debug/net6.0/refint/DevTrackR.ShippingOrders.Infrasctructure.dll
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/obj/Debug/net6.0/DevTrackR.ShippingOrders.Infrasctructure.pdb
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Infrasctructure/obj/Debug/net6.0/ref/DevTrackR.ShippingOrders.Infrasctructure.dll

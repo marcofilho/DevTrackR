@@ -1,0 +1,12 @@
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/bin/Debug/net6.0/DevTrackR.ShippingOrders.Core.deps.json
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/bin/Debug/net6.0/DevTrackR.ShippingOrders.Core.dll
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/bin/Debug/net6.0/DevTrackR.ShippingOrders.Core.pdb
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/obj/Debug/net6.0/DevTrackR.ShippingOrders.Core.csproj.AssemblyReference.cache
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/obj/Debug/net6.0/DevTrackR.ShippingOrders.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/obj/Debug/net6.0/DevTrackR.ShippingOrders.Core.AssemblyInfoInputs.cache
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/obj/Debug/net6.0/DevTrackR.ShippingOrders.Core.AssemblyInfo.cs
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/obj/Debug/net6.0/DevTrackR.ShippingOrders.Core.csproj.CoreCompileInputs.cache
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/obj/Debug/net6.0/DevTrackR.ShippingOrders.Core.dll
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/obj/Debug/net6.0/refint/DevTrackR.ShippingOrders.Core.dll
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/obj/Debug/net6.0/DevTrackR.ShippingOrders.Core.pdb
+/Users/marcoantoniolima/Documents/Personal Projects/DevTrackR/src/DevTrackR.ShippingOrders.Core/obj/Debug/net6.0/ref/DevTrackR.ShippingOrders.Core.dll
